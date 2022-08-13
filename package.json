@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixcelo/electron_gui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixcelo/electron_gui/issues"
+  },
+  "homepage": "https://github.com/pixcelo/electron_gui#readme",
+  "devDependencies": {
+    "electron": "^20.0.2",
+    "electron-packager": "^15.5.1"
+  }
+}
